@@ -20,7 +20,7 @@ Any text that is currently holding a space / is an instruction for the person fi
 --->
  
 <!--- TITLE --->
-# <DeviceName>
+# Switch Adapted Water Gun
 <!--- Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
 
 ## Overview
