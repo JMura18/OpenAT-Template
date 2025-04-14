@@ -9,7 +9,7 @@ The device is comprised of off-the-shelf parts and 3D printed parts.
 
 The Switch Adapted Water Gun is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about $20.
+The overall cost of materials is about $15.
 
 <img src="Photos/Complete_Adapted_Water_Gun.jpeg" width="500" alt="Picture of Switch Adapted Water Gun.">
 
