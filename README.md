@@ -43,7 +43,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)    |
+| Design Rationale     | 1.0     | [Switch Adapted_Design_Rationale](/Documentation/Switch_Adapted_Water_Gun_Design_Rationale.pdf)    |
 | 3D Printing Guide    | 1.0     | [Switch Adapted Water Gun 3D Printing Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.docx.pdf)    |
 | Assembly Guide       | 1.0     | [Switch Adapted Water Gun Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide.pdf)    |
 | Bill of Materials    | 1.0     | [Switch Adapted Water Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.pdf)    |
