@@ -16,7 +16,7 @@ The overall cost of materials is about $20.
 ## How to Obtain the Device
 ### Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Build Instructions below.
 
 ## Build Instructions
 <!--- Outline the major steps required to create a build --->
