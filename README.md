@@ -54,7 +54,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 Reference the [3D Printing Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.docx.pdf) for the tools and steps required to print the base.
 
-### 3. Assemble the <DeviceName>
+### 3. Assemble the Water Gun
 
 Reference the [Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide.pdf) for the tools and steps required to build the device.
 
