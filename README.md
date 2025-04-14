@@ -1,27 +1,5 @@
-<!--- Open Source Assistive Technology: GitHub Readme Template Version 1.2 (2024-May-27)  --->
-
-<!--- INSTRUCTIONS --->
-<!--- This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
-This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
- - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
- - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
- - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
- - <MMCWebLink> This is the website address including an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff.  
- - <MaterialCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of the materials of the device.
- - <ShippingCost> Replace this with the dollar cost and currency (CAD, USD, etc.) of shipping the device (if possible).
- - <YEAR> year(s) of the copyright
- 
-Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
-
---->
- 
 <!--- TITLE --->
 # Switch Adapted Water Gun
-<!--- Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
 
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
@@ -45,8 +23,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
-
+The [Bill of Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.pdf) lists all of the parts and components required to build the device.
 
 ### 2. Print the 3D Printable components
 
@@ -69,7 +46,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Design Rationale     | 1.0     | [<Device_Name>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)    |
 | 3D Printing Guide    | 1.0     | [Switch Adapted Water Gun 3D Printing Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.docx.pdf)    |
 | Assembly Guide       | 1.0     | [Switch Adapted Water Gun Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide.pdf)    |
-| Bill of Materials    | 1.0     | [<Device_Name>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)    |
+| Bill of Materials    | 1.0     | [Switch Adapted Water Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.pdf)    |
 | User Guide           | 1.0     | [Switch Adapted Water Gun_User_Guide](/Documentation/Switch_Adapted_Water_Gun_User_Guide.pdf)   |
 | Maker Checklist      | 1.0     | [Switch Adapted Water Maker Checklist](/Documentation/Switch_Adapted_Water_Gun_Maker_Checklist.pdf)   |
 
